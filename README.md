@@ -17,7 +17,7 @@ main.solve(positions.o_wins_1)
 
 Use capital X, capital O, and underscores for X, O, and blanks respectively.
 
-Always pass in a 3x3 list.
+Always pass in a 3x3 list. X always goes first.
 
 # Explanation of the Code
 This code is meant to follow minimax strictly by building a full decision tree under the position.
